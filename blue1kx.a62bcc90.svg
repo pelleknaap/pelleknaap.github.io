@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 5556 5556" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(5.55556,0,0,5.55556,0,0)">
+        <g>
+            <path d="M348.355,275.986L224.014,275.986L0,500L224.014,724.014L348.355,724.014L124.341,500L348.355,275.986Z" style="fill:rgb(145,145,145);"/>
+            <path d="M348.355,275.986L224.014,275.986L0,500L62.171,562.171L348.355,275.986Z" style="fill:rgb(101,101,101);"/>
+            <g transform="matrix(-1,1.22465e-16,-1.22465e-16,-1,1000,1000)">
+                <path d="M348.355,275.986L224.014,275.986L0,500L224.014,724.014L348.355,724.014L124.341,500L348.355,275.986Z" style="fill:rgb(145,145,145);"/>
+            </g>
+            <g transform="matrix(-1,1.22465e-16,-1.22465e-16,-1,1000,1000)">
+                <path d="M348.355,275.986L224.014,275.986L0,500L58.758,558.758L124.341,500L348.355,275.986Z" style="fill:rgb(101,101,101);"/>
+            </g>
+            <g transform="matrix(1.54301,0,0,1.54301,-331.227,-391.918)">
+                <path d="M538.705,673.78L601.503,736.578L538.705,799.377L538.705,673.78Z" style="fill:rgb(0,213,255);"/>
+            </g>
+            <g transform="matrix(1.54301,0,0,1.54301,-331.227,-391.918)">
+                <path d="M538.705,673.78L538.705,799.377L475.906,736.578L538.705,673.78Z" style="fill:rgb(0,188,255);"/>
+            </g>
+            <path d="M500,158.471L382.485,275.986L158.471,500L382.485,724.014L500,606.499L500,482.099L382.418,599.68L282.812,500L500,282.812L500,158.471Z" style="fill:rgb(0,213,255);"/>
+            <path d="M500,158.471L500,282.812L717.188,500L617.58,599.678L500,482.099L500.09,606.41L555.404,661.904L617.515,724.014L841.529,500L617.515,275.986L500,158.471Z" style="fill:rgb(0,188,255);"/>
+        </g>
+    </g>
+</svg>
